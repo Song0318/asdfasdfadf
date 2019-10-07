@@ -1,0 +1,11 @@
+%{
+int yylval;
+char string_table[];	
+%}
+
+%%
+
+
+
+
+%%
